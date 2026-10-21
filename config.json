@@ -1,0 +1,111 @@
+{
+  "serverName": "The Boroughs RP",
+  "description": "The Boroughs RP : The Five Boroughs Inspired Loading Screen!",
+  "discordUrl": "https://discord.gg/theboroughsrp",
+  "tebexUrl": "",
+
+  "discordCard": {
+    "title": "Discord Server",
+    "description": "The Boroughs RP :The Five Boroughs Inspired Loading Screen!",
+    "url": ""
+  },
+
+  "team": [
+    {
+      "name": "SkengLDN",
+      "role": "Founder",
+      "avatar": "https://media.discordapp.net/attachments/1549574043093434509/1562267982770471082/485C408D-D4B4-4153-AC2E-55974CE7957C.png?ex=6ad95ef0&is=6ad80d70&hm=5fd2689c7cfbcb5901144bd9b23fd98fcc6bacebb2df4eac45f540cac60555f2&=&format=webp&quality=lossless"
+    }
+  ],
+
+  "rules": [
+    "Your Rule's Here",
+    "Your Rule's Here",
+    "Your Rule's Here",
+    "Your Rule's Here",
+    "Your Rule's Here"
+  ],
+
+  "gallery": [
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1511121941162098748/Screenshot_2026-06-01_205225.png?ex=6a23eaba&is=6a22993a&hm=7650b3071096b71abe4712be7222181833c962ab6a2a46d019a4811cb95ca9c6&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509928147749965965/Screenshot_2026-05-29_144639.png?ex=6a24302b&is=6a22deab&hm=5f05a2a5f5576f03a11cc3c024edd4535d3006a23b73535a69e27e28339379e2&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509928148416856315/Screenshot_2026-05-29_123050.png?ex=6a24302b&is=6a22deab&hm=d379e24f5364e3291b8ac0776a3abfe54b83328a71d5ca83dc8ded16a3400343&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509112214055817276/Screenshot_2026-05-19_225114.png?ex=6a248405&is=6a233285&hm=df535037cc805358ef40a8872a5a354230a199d5ca177065ece158b72ba98ab6&"
+  ],
+
+  "music": [
+
+        {
+      "title": "Life In The Hood (Music Video)",
+      "artist": "(7th) YL",
+      "cover": "https://media.discordapp.net/attachments/1549574043093434509/1562268470803177594/8971D963-DF1D-4608-810F-8979CA522308.png?ex=6ad95f64&is=6ad80de4&hm=511ad6b3137240b4452930927fd38410070ac2c753d3dc71984693a2058a7527&=&format=webp&quality=lossless",
+      "src": "https://cdn.discordapp.com/attachments/1549574043093434509/1562268934768558160/videoplayback.mp4?ex=6ad95fd3&is=6ad80e53&hm=217a33ff4e32b7f8916f71700f6609af8c9b12697d912aa6aaad455c2a6f3629&"
+    },
+
+    
+    {
+      "title": "100 Rounds (Music Video)",
+      "artist": "#TightRoad Baby",
+      "cover": "https://media.discordapp.net/attachments/1549574043093434509/1562269430661259305/507E7C71-ED12-4B37-87BB-09DB659561AD.png?ex=6ad96049&is=6ad80ec9&hm=4614d78f6099077db4a7ee7067f02db6669c2d90141f9491a9888545e442d9f0&=&format=webp&quality=lossless",
+      "src": "https://cdn.discordapp.com/attachments/1561501555981811742/1562271271285162156/tightroad-baby-chest-music-video-pressplay-1080-ytshorts.savetube.me.mp4?ex=6ad96200&is=6ad81080&hm=0e4d21810c84a2039be398a51854f7c41d4aee303d41715f87ff26caf91b0725&"
+    },
+
+    {
+      "title": "Super Slime",
+      "artist": "#SilwoodNation RS x SplashDat",
+      "cover": "https://media.discordapp.net/attachments/1561501555981811742/1562271398842474596/7F6E0414-6B4D-4811-A326-977ED4AF5294.png?ex=6ad9621f&is=6ad8109f&hm=09fb6ff5a61e3327d829b45a95550fb2d84f84b4c129cc49b5472a10a3662566&=&format=webp&quality=lossless",
+      "src": "https://cdn.discordapp.com/attachments/1561501555981811742/1562271836929007736/silwoodnation-rs-x-splashdat-100-rounds-music-video-pressplay-1080-ytshorts.savetube.me.mp4?ex=6ad96287&is=6ad81107&hm=607ed2cbcb6e3fabecf40b266cceb8171cf17cf90cfbfe12884bedf429e7dc8e&"
+    },
+
+    {
+      "title": "The Facts [OFFICIAL VISUALISER]",
+      "artist": "100Ways",
+      "cover": "https://cdn.discordapp.com/attachments/1561501555981811742/1562272143025242193/F8E1A976-6938-44FD-A1BA-240B1AD69145.png?ex=6ad962d0&is=6ad81150&hm=f90c529410ac0200d7ab519ecfa8aa0ed0d78a5249803f5829ffef38d4e7745f&",
+      "src": "https://cdn.discordapp.com/attachments/1561501555981811742/1562272342753804349/100ways-the-facts-official-visualiser-1440-ytshorts.savetube.me.mp4?ex=6ad96300&is=6ad81180&hm=cb5c34577b997f3d000663629aaca0f3baae26cab3b23552cb6778501ebf1e93&"
+    },
+
+    {
+      "title": "Fire In The Booth - PT2",
+      "artist": "Northside Benji",
+      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512581900609388564/I_sTCtTrGnI-HD.jpg?ex=6a249d2b&is=6a234bab&hm=9317a2068346cfdb4ce3f018b66a887f07e6ab7f721a7605a1e15e6c7a511bbe&",
+      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512581749157269574/NorthSideBenji_-_Fire_In_The_Booth_pt2.mp4?ex=6a249d07&is=6a234b87&hm=75a54eb9e2e3df242befdbd7dbbac68da0765f466ade6ac56431821d83bffee3&"
+    },
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+    
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    }
+  ]
+}
